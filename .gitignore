@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target/
+*.iml
+.classpath
+.project
+.settings/*
+.DS_Store
+/nbactions.xml
+/bin/
+out/
+*.swp
+*.swo
+.idea/
